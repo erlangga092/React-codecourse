@@ -1,0 +1,10 @@
+h2 {
+	color: rgb(73, 82, 93);
+	margin: 0;
+	padding: 0;
+	font-family: 'IBM plex sans', sans-serif;
+}
+
+.centerHero {
+	background-color: rgb(226, 232, 240);
+}
